@@ -110,6 +110,19 @@ input[type="button"]{
     width: 80%;
 }
 
+input[type="submit"]{
+    display: block;
+    padding: 0 1.5em;
+    margin: 1em auto;
+    font-weight: 400;
+    height: 2.85em;
+    line-height: 2.95em;
+    color: #ffffff;
+    border: 0;
+    border-radius: 4px;
+    width: 80%;
+}
+
 .button1{
     background-color: #82cec6;
 }
